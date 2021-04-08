@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	안녕 세계!  
+	Hello world!  
 </h1>
 
 <P>  이 서버의 현재시간은  ${serverTime}. 입니다. </P>
